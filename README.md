@@ -1,30 +1,28 @@
-# Hi, I'm Madhav Mishra 👋
+# Madhav Mishra 👋
 
 ### AI & Full-Stack Engineer
 
-I build web and mobile products, AI-powered workflows, and backend integrations—from the user experience through APIs and data. I have 3 years of experience with Next.js and work with React, TypeScript, Node.js, Python, and FastAPI.
+I build web and mobile products, AI-powered workflows, and backend services. I have 3 years of experience with Next.js and work across React, TypeScript, Node.js, Python, and FastAPI.
 
-Currently building at [GrowQR.ai](https://growqr.ai), with a focus on AI products, conversational experiences, and automation.
+Currently building AI-powered and mobile product experiences at [GrowQR.ai](https://growqr.ai).
 
-## What I work on
+## Focus
 
-- Full-stack applications with Next.js, React, and TypeScript
-- Backend services and REST APIs with Node.js, Python, and FastAPI
-- AI interview practice and conversational/voice-agent experiences
-- Cross-platform mobile apps with React Native and Expo
+- Full-stack product development with Next.js, React, and TypeScript
+- Backend APIs and integrations with Node.js, Python, and FastAPI
+- AI interview practice, conversational interfaces, and voice-agent workflows
+- Cross-platform mobile development with React Native and Expo
 
-## Selected projects
+## Selected work
 
-- [CHALO — Ride-Hailing Platform](https://github.com/Madhavmishra12/chalo-app): Rider and Captain apps, an admin console, and backend services.
-- [Interview Roleplay — Frontend](https://github.com/Madhavmishra12/Interview-Roleplay-Frontend-): Interview-practice product interface.
-- [GrowQR Mobile App](https://github.com/GrowQR-Code/mobile): React Native and Expo mobile application work.
-- [QR_CODE](https://github.com/Madhavmishra12/QR_CODE): QR-code project.
+- [CHALO — Ride-Hailing Platform](https://github.com/Madhavmishra12/chalo-app) — Rider and Captain mobile apps, an operations console, and backend services for booking, matching, payments, and real-time ride updates.
+- [GrowQR Mobile App](https://github.com/Madhavmishra12/GrowQR-Mobile_app) — Expo / React Native prototype for iOS, Android, and web, built with TypeScript.
 
-## Tech
+## Technology
 
-**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS  
+**Frontend:** React, Next.js, React Native, Expo, TypeScript  
 **Backend:** Node.js, Express, Python, FastAPI, REST APIs  
-**Data:** PostgreSQL, MySQL, MongoDB  
+**Data:** PostgreSQL, MySQL  
 **Tools:** Git, Docker, Postman
 
 ## Connect
