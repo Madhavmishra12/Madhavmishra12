@@ -1,75 +1,34 @@
-<h1 align="center">Hi 👋, I'm Madhav Mishra</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | Building Scalable Web Applications</h3>
+# Hi, I'm Madhav Mishra 👋
 
----
+### AI & Full-Stack Engineer
 
-### 🚀 About Me
-- 💻 Passionate about **Full Stack Development**
-- ⚡ Building modern applications using **Next.js, Node.js, APIs**
-- 🤖 Interested in **AI, Automation & SaaS products**
-- 📊 Love building **scalable backend systems**
-- 🌱 Currently learning **AI Integration & Cloud Systems**
+I build web and mobile products, AI-powered workflows, and backend integrations—from the user experience through APIs and data. I have 3 years of experience with Next.js and work with React, TypeScript, Node.js, Python, and FastAPI.
 
----
+Currently building at [GrowQR.ai](https://growqr.ai), with a focus on AI products, conversational experiences, and automation.
 
-### 🛠 Tech Stack
+## What I work on
 
-**Frontend**
-- HTML
-- CSS
-- JavaScript
-- React
-- Next.js
-- Tailwind CSS
+- Full-stack applications with Next.js, React, and TypeScript
+- Backend services and REST APIs with Node.js, Python, and FastAPI
+- AI interview practice and conversational/voice-agent experiences
+- Cross-platform mobile apps with React Native and Expo
 
-**Backend**
-- Node.js
-- Express.js
-- FastAPI
-- REST APIs
+## Selected projects
 
-**Database**
-- MySQL
-- MongoDB
+- [CHALO — Ride-Hailing Platform](https://github.com/Madhavmishra12/chalo-app): Rider and Captain apps, an admin console, and backend services.
+- [Interview Roleplay — Frontend](https://github.com/Madhavmishra12/Interview-Roleplay-Frontend-): Interview-practice product interface.
+- [GrowQR Mobile App](https://github.com/GrowQR-Code/mobile): React Native and Expo mobile application work.
+- [QR_CODE](https://github.com/Madhavmishra12/QR_CODE): QR-code project.
 
-**Tools & Platforms**
-- Git
-- GitHub
-- Docker
-- Postman
-- VS Code
+## Tech
 
----
+**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS  
+**Backend:** Node.js, Express, Python, FastAPI, REST APIs  
+**Data:** PostgreSQL, MySQL, MongoDB  
+**Tools:** Git, Docker, Postman
 
-### 📈 GitHub Stats
+## Connect
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Madhavmishra12&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhavmishra12&theme=tokyonight"/>
-</p>
-
----
-
-### 🚀 Projects
-
-- 🔹 AI Voice Agent Platform
-- 🔹 QR Profile System
-- 🔹 Interview Roleplay AI Platform
-- 🔹 Full Stack Web Applications
-- 🔹 API Based SaaS Platforms
-
----
-
-### 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/madhav-kumar-3b40b5262/
-- 🌐 Portfolio: https://madhav-mishra-nine.vercel.app/
-- 📧 Email: madhavkumar691998@gmail.com
-
----
-
-### ⚡ Fun Fact
-I love building **AI powered SaaS products and automation tools**.
+- [Portfolio](https://madhav-mishra-nine.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/madhav-kumar-3b40b5262/)
+- [Email](mailto:madhavkumar691998@gmail.com)
